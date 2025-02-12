@@ -208,6 +208,7 @@ User - {}"""
 **🎃 Genres:** {genres}
 **📆 Year:** {year}
 **⭐ Rating:** {rating} / 10
+Bʏ @AKMOVIEBOTZ
 </b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
