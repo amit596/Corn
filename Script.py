@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/AkMoviesHubBackup">𝘼𝙠𝙈𝙤𝙫𝙞𝙚𝙨𝙃𝙪𝙗𝘽𝙖𝙘𝙠𝙪𝙥</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/AkMovieshubBackup">𝘼𝙆𝙈𝙊𝙑𝙄𝙀𝙎𝙃𝙐𝘽𝘽𝘼𝘾𝙆𝙐𝙋</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
