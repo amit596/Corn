@@ -19,7 +19,7 @@ class script(object):
 ᴛᴏ ᴄʜᴇᴄᴋ ɪғ ғsᴜʙ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴏʀ ɴᴏᴛ, ᴜsᴇ <code>/show_fsub</code></b>"""
 
     FORCESUB_TEXT="""<b>
-ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴍᴏᴠɪᴇ ʀᴇᴏ̨ᴜᴇsᴛᴇᴅ ʙʏ ʏᴏᴜ.
+ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴠɪᴅᴇᴏs ʀᴇᴏ̨ᴜᴇsᴛᴇᴅ ʙʏ ʏᴏᴜ.
 
 ʏᴏᴜ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ.
 
@@ -114,7 +114,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>@UNRARTEDXADULT ~{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
+    FILE_CAPTION = """<b>@UNRATEDXADULT ~{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -202,11 +202,9 @@ User - {}"""
 #verified_{}_completed"""
 
 
-    MOVIES_UPDATE_TXT = """<b>#𝑵𝒆𝒘_𝑭𝒊𝒍𝒆_𝑨𝒅𝒅𝒆𝒅 ✅
+    MOVIES_UPDATE_TXT = """<b>@UNRATEDXADULT ✅
 **🍿 Title:** {title}
-**🎃 Genres:** {genres}
-**📆 Year:** {year}
-**⭐ Rating:** {rating} / 10
+**🔞 @UNRATEDXADULT:**
 </b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
