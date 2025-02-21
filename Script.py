@@ -108,10 +108,8 @@ User - {}"""
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
-🍿 Title: {title}
-🎃 Genres: {genres}
-📆 Year: {release_date}
-⭐ Rating: {rating} / 10</b>
+🍿 Title: {file_name}
+🔞 @unratedxadult : </b>
 """
 
     FILE_CAPTION = """<b>@UNRATEDXADULT ~{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
@@ -202,8 +200,8 @@ User - {}"""
 #verified_{}_completed"""
 
 
-    MOVIES_UPDATE_TXT = """<b>@UNRATEDXADULT ✅
-**🍿 Title:** {title}
+    MOVIES_UPDATE_TXT = """<b> @UNRATEDXADULT ✅
+**🍿 Title:** {file_name}
 **🔞 @UNRATEDXADULT:**
 </b>"""
 
