@@ -112,7 +112,7 @@ User - {}"""
 🔞 @unratedxadult : </b>
 """
 
-    FILE_CAPTION = """<b>[@UNRATEDXADULT]{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
+    FILE_CAPTION = """<b>[@Cineoriginals]{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -200,9 +200,9 @@ User - {}"""
 #verified_{}_completed"""
 
 
-    MOVIES_UPDATE_TXT = """<b> @UNRATEDXADULT ✅
+    MOVIES_UPDATE_TXT = """<b> @Akmovieshubbackup ✅
 **🍿 Title:** {file_name}
-**🔞 @UNRATEDXADULT:**
+**🔞 @Gandicheez:**
 </b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
